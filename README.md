@@ -4,7 +4,7 @@
   Pandawa Eazy Tools
 </h1>
 
-<h4 align="center">Pandawa Eazy Tools | <a href="https://pandawa.ryuzein.biz.id" target="_blank">pandawa.ryuzein.biz.id</a></h4>
+<h4 align="center">Pandawa Eazy Tools | <a href="https://ryuzein.github.io/Pandawa-Eazy-Tools/" target="_blank">ryuzein.github.io/Pandawa-Eazy-Tools</a></h4>
 
 <blockquote align="center">
   <em>Pandawa Eazy Tools</em> (<code>/ˈæn.ə.meɪ/</code>) Pandawa Eazy Tools Is A Repository Made For We Can Get Some Important Content We Need For Free And Open Source.
