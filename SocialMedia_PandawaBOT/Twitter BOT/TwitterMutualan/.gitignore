@@ -1,0 +1,15 @@
+# dependency directory
+node_modules/
+
+# json database
+db/*
+!db/index.js
+
+# lock files
+package-lock.json
+
+# env file
+.env
+
+# vscode file
+.vscode
