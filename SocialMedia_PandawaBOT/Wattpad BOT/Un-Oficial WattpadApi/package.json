@@ -1,0 +1,29 @@
+{
+  "name": "wattpad.js",
+  "version": "0.0.21",
+  "description": "Un-Official Wattpad API Wrapper for NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wattpad-api",
+    "wattpad-scraper",
+    "wattpad-api-wrapper",
+    "wattpad",
+    "wattpad.js",
+    "wattpad-reader"
+  ],
+  "author": "Gimenz",
+  "license": "MIT",
+  "homepage": "https://github.com/Gimenz/wattpad.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gimenz/wattpad.js.git"
+	},
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^2.6.7",
+    "node-html-parser": "^5.3.3"
+  }
+}
