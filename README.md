@@ -4,14 +4,14 @@
   Pandawa Eazy Tools
 </h1>
 
-<h4 align="center">Pandawa Eazy Tools | <a href="https://pandawa.ryuzein.biz.id" target="_blank">pandawa.ryuzein.biz.id</a></h4>
+<h4 align="center">Pandawa Eazy Tools | <a href="https://ryuzein.github.io/Pandawa-Eazy-Tools/"><strong>Explore Website »</strong></a>
 
 <blockquote align="center">
   <em>Pandawa Eazy Tools</em> (<code>/ˈæn.ə.meɪ/</code>) Pandawa Eazy Tools Is A Repository Made For We Can Get Some Important Content We Need For Free And Open Source.
 </blockquote>
 
 <p align="center">
-  <a href="#getting-started">Getting started</a>&nbsp;|&nbsp;<a href="#documentation">Documentation</a>&nbsp;|&nbsp;<a href="https://pandawa.ryuzein.biz.id/download/">For Downloads Part</a>&nbsp;|&nbsp;<a href="#browser-support">Browser support</a>
+  <a href="#getting-started">Getting started</a>&nbsp;|&nbsp;<a href="https://github.com/ryuzein/Pandawa-Eazy-Tools/issues">Add Requests</a>&nbsp;|&nbsp;<a href="https://pandawa.ryuzein.biz.id/download/">Downloads Part</a>&nbsp;|&nbsp;<a href="https://github.com/ryuzein/Pandawa-Eazy-Tools/discussions/4">Features Requests</a>
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/4b3d1133d689247390604d664351dd23ca5e9e24.svg "Repobeats analytics image")
