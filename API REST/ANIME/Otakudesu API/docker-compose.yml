@@ -1,0 +1,12 @@
+services:
+  app:
+    container_name: 'otakudesu-api'
+    build: .
+    ports:
+      - '8080:8080'
+    expose:
+      - '8080'
+    restart: always
+    environment:
+      ENDPOINT: 'https://otakudesu.video/' # ENDPOINT HERE
+    
