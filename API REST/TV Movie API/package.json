@@ -1,0 +1,30 @@
+{
+  "name": "tv-movie-api",
+  "version": "1.2.2",
+  "description": "An objectivly better TV Series and Movie API.",
+  "dependencies": {
+    "async-q": "^0.3.1",
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "colors": "^1.1.2",
+    "compression": "^1.6.1",
+    "cron": "^1.1.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.7",
+    "morgan": "^1.7.0",
+    "request": "^2.69.0",
+    "response-time": "^2.3.1"
+  },
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "node --harmony --harmony_destructuring --harmony_default_parameters --use_strict index.js"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmd430/tv-movie-api.git"
+  }
+}
